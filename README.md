@@ -1,6 +1,7 @@
 # SoftwareAutomation
 Course Material
-********How can I ensure that my code, program, or software is functional and secure?***************
+
+********How can I ensure that my code, program, or software is functional and secure?********
 Requirements Analysis:
 Clearly define the requirements and objectives of your software. Involve stakeholders to ensure that all necessary features and functionality are well-documented.
 
@@ -13,7 +14,7 @@ Implement a code review process where experienced developers inspect the code fo
 Testing:
 Perform thorough testing, including unit testing, integration testing, and system testing. Use test automation frameworks to speed up testing processes. Write test cases that cover all functionality and edge cases.
 
-*******How do I interpret user needs and incorporate them into a program?****
+****How do I interpret user needs and incorporate them into a program?****
 Gather User Requirements:
 Start by collecting and documenting user requirements. Engage with stakeholders, including end-users, clients, and other relevant parties, to understand their needs. Use techniques like interviews, surveys, focus groups, and observation to gather comprehensive requirements. 
 
